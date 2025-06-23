@@ -3,7 +3,7 @@
 client_id = "252191c59effa20ce15bfef0b4e02792"
 name = "descriptoai"
 handle = "descriptoai"
-application_url = "https://guaranteed-dealt-cornell-guided.trycloudflare.com"
+application_url = "https://searches-meetings-coming-vitamin.trycloudflare.com"
 embedded = true
 
 [build]
@@ -26,7 +26,7 @@ api_version = "2025-04"
 scopes = "write_products"
 
 [auth]
-redirect_urls = ["https://guaranteed-dealt-cornell-guided.trycloudflare.com/auth/callback", "https://guaranteed-dealt-cornell-guided.trycloudflare.com/auth/shopify/callback", "https://guaranteed-dealt-cornell-guided.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://searches-meetings-coming-vitamin.trycloudflare.com/auth/callback", "https://searches-meetings-coming-vitamin.trycloudflare.com/auth/shopify/callback", "https://searches-meetings-coming-vitamin.trycloudflare.com/api/auth/callback"]
 
 [pos]
 embedded = false
